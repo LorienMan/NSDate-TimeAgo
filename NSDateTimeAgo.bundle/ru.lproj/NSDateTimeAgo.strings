@@ -1,3 +1,6 @@
+/* Lang */
+"lang" = "ru";
+
 /*
  RULES:
  Assume value for (seconds, hours, minutes, days, weeks, months or years) is XXXY, Y is last digit, XY is last two digits;
